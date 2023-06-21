@@ -5,7 +5,7 @@
       <p>HANT</p>
     </div>
     <ul class="menu">
-      <li @click="scrollTo(1400)">About</li>
+      <li @click="scrollTo(1200)">About</li>
       <li @click="scrollTo(2000)">Contacts</li>
       <li @click="scrollTo()">Portfolio</li>
     </ul>

@@ -110,16 +110,16 @@ onMounted(() => {
     bottom: 20%;
   }
   div.textBox p {
-    font-size: 26px;
+    font-size: 20px;
   }
 
   div.textBox h3 {
-    font-size: 26px;
+    font-size: 20px;
   }
 
   div.textBox h1 {
     margin-left: 0px;
-    font-size: 90px;
+    font-size: 94px;
     line-height: 90%;
   }
 
@@ -139,6 +139,10 @@ onMounted(() => {
 
   div.projects p {
     font-size: 18px;
+  }
+
+  div.projects h3 {
+    font-size: 20px;
   }
 }
 </style>

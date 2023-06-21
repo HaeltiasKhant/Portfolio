@@ -107,7 +107,6 @@ onMounted(() => {
 
   div.card1 {
     width: 100%;
-    padding: 5px;
   }
 
   div.card2 {
@@ -115,7 +114,11 @@ onMounted(() => {
   }
 
   div.card1 h1 {
-    font-size: 20px;
+    font-size: 26px;
+  }
+
+  div.card1 img {
+    width: 80%;
   }
 
   div.card1 p {
