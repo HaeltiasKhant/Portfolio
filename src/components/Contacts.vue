@@ -57,7 +57,7 @@ footer {
   font-size: 30px;
   transition: all 0.5s;
   cursor: pointer;
-  font-family: cursive;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 
 .email h3:hover {
@@ -103,7 +103,7 @@ footer {
 @media screen and (max-width: 760px) {
 
   div.email {
-    margin-left: -116px;
+    margin-left: -80px;
   }
   div.email h3 {
     font-size: 20px;
@@ -127,9 +127,9 @@ footer {
   }
 }
 
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 300px) {
   div.email {
-    margin-left: 0px;
+    margin-left: -60px;
   }
 
   div.socialLogos img {

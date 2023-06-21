@@ -6,10 +6,9 @@
         src="https://e7.pngegg.com/pngimages/799/987/png-clipart-computer-icons-avatar-icon-design-avatar-heroes-computer-wallpaper.png"
         alt="">
       <p>"My name is Khant Thu and I have been learning web development almost six months now.I was always interested in
-        games and web designs since I was a kid and now that I am learning it, I am really starting enjoying this.I want
-        to cover as much as skills I need to become a proficient web developer.I am really hoping to write projects as a
-        team and share experiences so if you are interested in hiring a newbie and give some experiences,
-        I won't let you down!"
+        games and web designs since I was a kid and now that I am learning it, I am really starting enjoying it.I want
+        to cover as many as skills I can to become a proficient web developer.And I am really excited to write projects as a
+        team and share experiences so if you need a team player for your projects, you can count on me!"
       </p>
     </div>
     <div class="card2">
@@ -70,7 +69,7 @@ onMounted(() => {
 }
 
 .card1 p {
-  font-family: cursive;
+  font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
   color: #fff;
   font-size: 18px;
 }
@@ -120,7 +119,7 @@ onMounted(() => {
   }
 
   div.card1 p {
-    font-size: 18px;
+    font-size: 20px;
   }
 
   div.skillLogos {
