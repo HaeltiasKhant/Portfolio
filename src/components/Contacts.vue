@@ -10,8 +10,8 @@
         <h2>Follow me on - </h2>
         <div class="socialLogos">
           <img src="https://img.freepik.com/premium-vector/blue-social-media-logo_197792-1759.jpg" alt="fb">
-          <img src="src/assets/images/instagram.png" alt="instagram">
-          <img src="src/assets/images/telegram.png" alt="telegram">
+          <img src="../assets/images/instagram.png" alt="instagram">
+          <img src="../assets/images/telegram.png" alt="telegram">
         </div>
 
       </div>
