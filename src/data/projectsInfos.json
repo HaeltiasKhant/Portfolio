@@ -2,25 +2,25 @@
   {
     "name" : "Notes",
     "id" : 1,
-    "img" : "src/assets/images/Screenshot 2023-06-19 101028.png",
+    "img" : "https://img.freepik.com/free-vector/collection-sticky-note-illustrations_53876-8287.jpg?w=2000",
     "url" : ""
   },
   {
     "name" : "Meals-Receipts",
     "id" : 2,
-    "img" : "src/assets/images/Screenshot 2023-06-19 100826.png",
+    "img" : "https://www.pcrm.org/sites/default/files/2022-05/Universal-Meals-Recipes-Collage.jpg",
     "url" : "https://vue-meals-receiptsbyhaeltias22.netlify.app/"
   },
   {
     "name" : "Light-Quizes",
     "id" : 3,
-    "img" : "src/assets/images/Screenshot 2023-06-18 163221.png",
+    "img" : "https://canopylab.com/wp-content/uploads/2023/01/Blog-Creating-multiple-choice-quizzes-with-the-CanopyLAB-Quiz-engine.jpg",
     "url" : ""
   },
   {
     "name" : "SignUp-Form",
     "id" : 4,
-    "img" : "src/assets/images/Screenshot 2023-06-18 163341.png",
+    "img" : "https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_700/Challenges/q7yvs5yvgchjhjs2znay.jpg",
     "url" : ""
   }
 ]
