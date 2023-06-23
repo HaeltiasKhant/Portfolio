@@ -115,9 +115,9 @@ h1 {
   }
 }
 
-@media screen and (max-width: 300px) {
+@media screen and (max-width: 390px) {
   div.project p {
-    font-size: 14px;
+    font-size: 16px;
   }
 
   div.project {
@@ -125,7 +125,7 @@ h1 {
   }
 
   div.projectsContainer {
-    grid-gap: 14px;
+    grid-gap: 16px;
   }
 }
 </style>

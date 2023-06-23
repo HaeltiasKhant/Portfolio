@@ -7,7 +7,7 @@
       </div>
 
       <div class="socials">
-        <h2>Follow me on - </h2>
+        <h2>Connect with me - </h2>
         <div class="socialLogos">
           <img src="https://img.freepik.com/premium-vector/blue-social-media-logo_197792-1759.jpg" alt="fb">
           <img src="../assets/images/instagram.png" alt="instagram">
