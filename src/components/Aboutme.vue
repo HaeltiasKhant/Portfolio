@@ -69,9 +69,10 @@ onMounted(() => {
 }
 
 .card1 p {
-  font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-style: italic;
   color: #fff;
-  font-size: 18px;
+  font-size: 20px;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 .card2 {
@@ -118,7 +119,7 @@ onMounted(() => {
   }
 
   div.card1 img {
-    width: 80%;
+    width: 100%;
   }
 
   div.card1 p {
@@ -143,7 +144,7 @@ onMounted(() => {
 
 @media screen and (max-width: 390px) {
   div.card1 p {
-    font-size: 14px;
+    font-size: 20px;
   }
 
   div.skillLogos img {
